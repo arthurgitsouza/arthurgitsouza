@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">Data Analyst at @UNDB</h3>
+<h3 align="center">Jr Data Analyst</h3>
 
 - 🔭 I’m currently working on **UNDB**
 
